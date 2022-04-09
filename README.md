@@ -2,12 +2,11 @@
 - 👀 I’m interested in coding and programming using HTML, CSS and JavaScript
 - 🌱 I’m currently learning the above alongside trading cryptocurrencies
 - Websites I've done:
-https://number1boxers.com
-https://cryptoworld.host
+https://number1boxers.com, 
+https://cryptoworld.host, 
 https://rhythmsoflife.org.uk
 - My work on Codepen:
-https://codepen.io/Rob__01/pen/rNzgXLP
-https://codepen.io/Rob__01/pen/bGrOREM
+https://codepen.io/Rob__01/pen/rNzgXLP,  
 https://codepen.io/Rob__01/pen/vYJXRdJ
 
 - 📫 Reach me on jonesdotrobert@gmail.com or jones.lloyd.r@gmail.com
