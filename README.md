@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rob01x
 - 👀 I’m interested in coding and programming using HTML, CSS and JavaScript
-- 🌱 I’m currently learning the above alongside trading cryptocurrencies
+- 🌱 I’m currently learning the above.
 - Websites I've done:
 number1boxers.com, 
 https://cryptoworld.host, 
