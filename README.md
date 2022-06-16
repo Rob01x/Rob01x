@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and programming using HTML, CSS and JavaScript
 - 🌱 I’m currently learning the above alongside trading cryptocurrencies
 - Websites I've done:
-https://number1boxers.com, 
+number1boxers.com, 
 https://cryptoworld.host, 
 https://rhythmsoflife.org.uk
 - My work on Codepen:
